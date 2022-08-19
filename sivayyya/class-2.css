@@ -1,0 +1,87 @@
+.sivarupa{
+    border:10px olive;
+    padding:50px;
+    background-image:url(./DSC_0412.JPG) ;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    display: flex;
+    /* justify-content:space-evenly; */
+    border:oldlace 5px solid;
+    background-color: cornflowerblue;
+    justify-content:space-between;
+}
+.navbar{
+    display:flex;
+}
+
+
+
+.n1,.n2,.n3,.n4{
+    margin:10px;
+    
+}
+.navbar2{
+    display:flex;
+    /* justify-content: right; */
+    text-align: right;
+
+}
+.galary{
+    border:10px rgb(65, 225, 92) solid;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    background-color: rgba(45, 44, 46, 0.432);
+    justify-content: space-between;
+    
+}
+.g1,.g2,.g3,.g4,.g5,.g6,.g7,.g8,.g9,.g10{
+    border:red 5px double;
+    height:200px;
+    width:200px;
+    margin: 10px;
+}
+.g1{
+    background-image: url(./30341.jpg);
+    background-size: cover;
+}
+.g2{
+    background-image: url(./30341\ -\ Copy.jpg);
+    background-size: cover;
+}
+.g3{
+    background-image: url(./32235984.cms.jpg);
+    background-size: cover;
+}
+.g4{
+    background-image: url(./41009657.cms.jpg);
+    background-size: cover;
+}
+.g5{
+    background-image: url(./41009657.cms\ -\ Copy.jpg);
+    background-size: cover;
+}
+.g6{
+    background-image: url(./41011733.cms-1.jpg);
+    background-size: cover;
+}
+.g7{
+    background-image: url(./41011733.cms.jpg);
+    background-size: cover;
+}
+.g8{
+    background-image: url(./41014207.cms.jpg);
+    background-size: cover;
+}
+.g9{
+    background-image: url(./454244930-jpg_134230.jpg);
+    background-size: cover;
+}
+.g10{
+    background-image: url(./DSC_0412.JPG);
+    background-size: cover;
+}
